@@ -13,7 +13,13 @@ Hey guys, i'm Guilherme Fernandes i'm a Developer Front-End. Currently i'm learn
 - <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 <br>
 
-
+### Visiting my social midia:
+<br>
+<a target="blank" href="https://www.instagram.com/psico.guii/"><img alt="instagran" widt="80px" height="80px" src="https://cdn-images-1.medium.com/max/1200/1*CPgwLHR6jno_tOmF0--7eg.jpeg"></a>
+<a target="blank" href="https://www.linkedin.com/in/guilherme-fernandes-a094a6178/"><img alt="Linkdln" widt="80px" height="80px" src="https://logosmarcas.net/wp-content/uploads/2020/04/Linkedin-Logo.png"></a>
+<br>
+   
+   
 ![Gui stats](https://github-readme-stats.vercel.app/api?username=guilhermefpereira&hide=contribs,prs)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermefpereira)](https://github.com/anuraghazra/github-readme-stats)
