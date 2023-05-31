@@ -1,24 +1,47 @@
-<img align="center" alt="coding" width="900" height="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--sNXjzc6P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif%3Fitemid%3D15828752"/>
 
+### Hi There :blush:
 
-### Hello Visiting Friend :wave:
-
-
-Hey guys, i'm Guilherme Fernandes i'm a Developer Front-End. Currently i'm learning and creating projects with:
+Olá, Sou o Guilherme, apaixonado em tecnologia e esse mundo repleto de possibilidades que é a programação.
+Aqui é o meu espaço aonde salvo meus projetos e criações, venha acompanhar o meu trabalho ...
 <br>
 <br>
-- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-- <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
-
-- <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+Para contato:
+<br>
+ Pode mandar mensagem através do <a target="blank" href="https://www.linkedin.com/in/guilherme-fernandes-developer/">:calling:</a>
+ <br>
+ Contatar através do e-mail : guilll.pereira@gmail.com  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+ <br>
 <br>
 
-### Visiting my social midia:
+Atuo como Developer Front-End e essas são as tecnologias que tenho experiência .
 <br>
-<a target="blank" href="https://www.instagram.com/psico.guii/"><img alt="instagran" widt="80px" height="80px" src="https://cdn-images-1.medium.com/max/1200/1*CPgwLHR6jno_tOmF0--7eg.jpeg"></a>
-<a target="blank" href="https://www.linkedin.com/in/guilherme-fernandes-a094a6178/"><img alt="Linkdln" widt="80px" height="80px" src="https://logosmarcas.net/wp-content/uploads/2020/04/Linkedin-Logo.png"></a>
 <br>
-   
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white">
+<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
+<img src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink">
+<br>
+<br>
+E tambem possuo experiência com tecnologias de Back-End, como:
+<br>
+<br> 
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node" >
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js" >
+<img src="https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue" alt="Sequelize.js">
+<img src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink" alt="Token JWT">
+<br>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres">
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+<br>
+
+
+
    
 ![Gui stats](https://github-readme-stats.vercel.app/api?username=guilhermefpereira&hide=contribs,prs)
 
